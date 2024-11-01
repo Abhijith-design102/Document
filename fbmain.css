@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f7f7f7;
+    box-sizing: border-box;
+}
+
+.main{
+    width: 100%;
+    display: flex;
+    background-color: #f2f4f7;
+}
+.left{
+    width: 55%;
+   height: 100%;
+    background-color: aquamarine;
+    margin-top: 23
+    0px;
+
+    
+}
+
+.left img{
+   width: 400px;
+   padding-right: 120PX;
+}
+.left p{
+    font-size: 20px;
+    padding-RIGHT: 120PX;
+}
+.right{
+    width: 45%;
+    margin-right: 120px;
+    margin-top: 120px;
+    background-color: darkgray;
+}
+.front{
+    background-color: white;
+}
+.card{
+    width: 350px;
+    height: 350px;
+    background-color: white;
+    padding: 30px;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: black;
+}
+.line{
+    margin-top: 20px;
+    text-align: center;
+}
+#email{
+    width: 98%;
+    height: 50px;
+    margin-top: 10px;
+    border: solid;
+    border-radius: 5px;
+    border-width: .5px;
+    border-color: white;
+    font-size: 14px;
+    padding-left: 10px;
+}
+#password{
+    width: 98%;
+    height: 50px;
+    margin-top: 10px;
+    border: solid;
+    border-radius: 5px;
+    border-width: .5px;
+    border-color: white;
+    font-size: 14px;
+    padding-left: 10px;
+}
+.button{
+    width: 98%;
+    height: 50px;
+    margin-top: 10px;
+    border: solid;
+    border-radius: 5px;
+    border-width: .5px;
+    background-color: blue;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    border-color: blue;
+    padding-left: 20px;
+}
+.button2{
+    width: 98%;
+    height: 50px;
+    margin-top: 20px;
+    border: solid;
+    border-radius: 5px;
+    border-width: .5px;
+    background-color: rgb(20, 160, 39);
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    border-color: rgb(20, 160, 39);;
+    padding-left: 1%;
+}
+.fpass{
+    margin-top: 20px;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+.fp{
+    text-decoration: none;
+    background-color: white;
+    /* margin-top: 20px; */
+}
+
